@@ -1,0 +1,15 @@
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\bin\Debug\EElmore-CPT206-Lab3.exe.config
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\bin\Debug\EElmore-CPT206-Lab3.exe
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\bin\Debug\EElmore-CPT206-Lab3.pdb
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.csproj.AssemblyReference.cache
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore_CPT206_Lab3.Form1.resources
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore_CPT206_Lab3.Properties.Resources.resources
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.csproj.GenerateResource.cache
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.exe
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.pdb
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-CPT206-Lab3.exe.config
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\bin\Debug\StateLibrary.dll
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\bin\Debug\StateLibrary.pdb
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore_CPT206_Lab3.Details.resources
+C:\Users\elmor\source\repos\EElmore-CPT206-Lab3\obj\Debug\EElmore-.A4164E44.Up2Date
